@@ -1,5 +1,3 @@
-#Artificial Intelligence Projects
+#Artificial Intelligence Assignments
 
-Hi there,
-
-Hubot here, this is an AI project.
+The Motive of this assignment is to implement Local Search.
