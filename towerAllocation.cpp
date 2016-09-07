@@ -10,7 +10,7 @@ double bestAmount;
 double currentAmount;
 
 struct nodeBid{			//bid node structure
-	int bidId;			//bid's id
+	int bidId;		//bid's id
 	int companyId;		//company's id
 	double bidAmount;	//cost of bid
 	vector<int> regionIdList;		//number of regions in bid
